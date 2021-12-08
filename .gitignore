@@ -1,9 +1,0 @@
-target/
-.idea/
-geckodriver
-geckodriver.exe
-javaWebdriverCucumber.iml
-ASK.iml
-workspace.xml
-pom.xml
-dependency-reduced-pom.xml
